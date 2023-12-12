@@ -23,7 +23,7 @@ function mergeSorted(list1, list2) {
     }
     c[j + 1] = point;
   }
-  // console.log(c);
+  console.log(c);
   return c;
 }
 
